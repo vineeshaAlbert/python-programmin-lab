@@ -1,0 +1,5 @@
+list1=[2,-1,4,-9,-3,7,0,-6]
+print("the given list is:",list1)
+print("the positive numbers from yhe given list of integers are:")
+list2=[i for i in list1 if i>0]
+print(list2)
