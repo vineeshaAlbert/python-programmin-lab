@@ -1,0 +1,8 @@
+l=[]
+n=input("enter the names:")
+l.append(n)
+n=n.split(",")
+total=0
+for i in list:
+         total=total+i.count('a')
+print("occurrence of a is",total)
