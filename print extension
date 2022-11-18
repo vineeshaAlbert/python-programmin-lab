@@ -1,0 +1,3 @@
+a=input("Enter the word")
+a=a.split(".")
+print("Extension of the word is:",a[-1])
